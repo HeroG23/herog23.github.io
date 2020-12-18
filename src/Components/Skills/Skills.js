@@ -95,6 +95,7 @@ function Skills() {
           Google Maps api
         </h4>
         <div className="links">
+          <h3 style={{textDecoration:"underline"}}>Jump To:</h3>
           <Link style={{textDecoration:"none", color:"black"}} to="/">About Me</Link>
           <Link style={{textDecoration:"none", color:"black"}} to="/projects">Project Previews</Link>
         </div>
