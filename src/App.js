@@ -1,17 +1,12 @@
-import Header from './Components/Header/Header';
-import AboutMe from './Components/AboutMe/AboutMe';
-import Skills from './Components/Skills/Skills';
-import Projects from './Components/Projects/Projects';
-
+import Header from "./Components/Header/Header";
 import "./App.css";
+import routes from "./routes";
 
 function App() {
   return (
     <div className="App">
-      <Header/>
-      <AboutMe/>
-      <Skills/>
-      <Projects/>
+      <Header />
+      {routes}
     </div>
   );
 }

@@ -1,0 +1,34 @@
+.Project-Previews{
+    height: 100%;
+    width: 50vw;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+footer{
+    position: relative;
+    bottom: 0;
+    height: 150px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    border-radius: 25px;
+    background-color: rgba(0, 0, 0, 0.651);
+    color: white;
+}
+footer > .links{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Links{
+    border: 2px solid white;
+}
