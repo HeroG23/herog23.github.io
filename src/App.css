@@ -4,7 +4,7 @@
   background-image: url("https://images.unsplash.com/photo-1557525970-542a6957a311?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OTd8fGlvd2F8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 100vw 100vh;
+  background-size: 100% 100%;
   display: flex;
 }
 
